@@ -2,4 +2,4 @@ name: Dyniva Baidu
 type: module
 description: 'baidu map for text'
 package: Dyniva
-core: 8.x
+core_version_requirement: ^8.8 || ^9
